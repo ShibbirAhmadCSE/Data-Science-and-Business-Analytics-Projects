@@ -1,4 +1,4 @@
-# The Sparks Foundation Tasks
+# Data Science Internship At The Sparks Foundation
 
 In this repository, I shared the tasks that I completed while working for The Sparks Foundation as an Intern. 
 
